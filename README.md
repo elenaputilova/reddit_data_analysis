@@ -56,9 +56,9 @@ Over time the network appeared sparser, with fewer nodes showing their financial
 ![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/11.png)
 
 ## Network metrics dynamics
-Reciprocity -  measures the likelihood of mutual connections between nodes in a directed network.
-Heterogeneity - the degree of variation in the connections that each node maintains. 
-Average degree - quantifies, on average, how many connections each node has within the network. 
+Reciprocity -  measures the likelihood of mutual connections between nodes in a directed network.  
+Heterogeneity - the degree of variation in the connections that each node maintains.   
+Average degree - quantifies, on average, how many connections each node has within the network.   
 The diversity and average connections in the network grow, but mutual connections decrease as the network continues to grow before September 17. This characteristic becomes the opposite as the intensity of the discussion declines on WSB.
 ![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/12.png)
 
