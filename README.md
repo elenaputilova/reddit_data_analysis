@@ -36,6 +36,8 @@ The comparison of stock daily returns with Google Trends and Google News search 
 ![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/2.png)
 
 ### Composition of commitment events by flair
+”Flairs” refer to descriptive ’tags’ attached to posted threads. To measure financial commitment, three types of flairs were identified in posts: ”profit,” ”loss” (indicating gains or losses exceeding a minimum threshold of $2,500 USD), and ”YOLO” (indicating investment positions at risk with a minimum value of $10,000 USD).
+Temporal distribution of commitment events during the selected time period shows that ”profit” posts are the most prevalent in the commitment landscape. Spikes in commitment events occur following significant changes in stock price.
 ![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/6.png)
 
 ## Group identity
