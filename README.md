@@ -39,11 +39,11 @@ Analyzed period: from August 1, 2022 up to September 15, 2022 (period of highest
 
 ## Network evolution
 
-![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/10.png)
+![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/11.png)
 
 ## Network metrics dynamics
 
-![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/11.png)
+![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/12.png)
 
 
 ## Outcome
