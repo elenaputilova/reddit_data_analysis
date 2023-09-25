@@ -62,6 +62,7 @@ Average degree - quantifies, on average, how many connections each node has with
 The diversity and average connections in the network grow, but mutual connections decrease as the network continues to grow before September 17. This characteristic becomes the opposite as the intensity of the discussion declines on WSB.
 ![map](https://github.com/elenaputilova/reddit_data_analysis/blob/main/images/12.png)
 
+---
 **Links to the datasets used in the project**: 
 - Academic Torrents with full Reddit dataset: https://academictorrents.com/details/c398a571976c78d346c325bd75c47b82edf6124e 
 - JSON with filtered posts https://drive.google.com/file/d/1-Jz3VBoD209_MvcMbfFCd_pD0YE4dXyJ/view?usp=share_link
